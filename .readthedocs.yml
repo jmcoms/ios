@@ -12,3 +12,8 @@ mkdocs:
 python:
   install:
     - requirements: requirements.txt  # 指定需要安装的 Python 依赖
+
+build:
+  os: ubuntu-20.04  # 指定操作系统
+  tools:
+    python: "3.8"  # 指定 Python 版本
