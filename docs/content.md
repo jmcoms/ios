@@ -62,4 +62,4 @@ Details about section 2.
 8x8x永久免费
 8x8x华人永久免费
 8x8x在线视频
-![image](https://github.com/user-attachments/assets/2daa9574-8a58-432c-b8ba-0e750bcb96d2)
+
