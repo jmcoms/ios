@@ -1,10 +1,11 @@
 version: 2
 
-# Build documentation with MkDocs
-mkdocs:
-  configuration: mkdocs.yml  # 指定 MkDocs 的配置文件路径
+sphinx:
+  configuration: docs/conf.py
 
-# Install dependencies
+mkdocs:
+  configuration: mkdocs.yml
+
 python:
   install:
-    - requirements: requirements.txt  # 指定需要安装的 Python 依赖
+    - requirements: requirements.txt
